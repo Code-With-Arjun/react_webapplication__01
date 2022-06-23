@@ -1,0 +1,17 @@
+footer{
+    background: #111;
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+    margin-top: 1rem;
+}
+footer span{
+    color: white;
+}
+footer span a{
+    color: crimson;
+}
+footer span a:hover{
+    text-decoration: underline;
+    color: white;
+}

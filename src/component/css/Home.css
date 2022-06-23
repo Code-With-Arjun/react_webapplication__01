@@ -1,0 +1,38 @@
+
+
+
+
+/* -------------about-section-styling--------------- */
+.btn-display{
+    display: inline-block;
+    background:  #6d28d9;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+  
+    border: 2px solid  #6d28d9;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    padding: .5rem 1rem;
+    border-radius: 9px;
+    margin: 0 0.2rem;
+ }
+ .btn-display:hover{
+    color:  #6d28d9;
+    background: none;
+}
+.about-section-text{
+    font-weight: 700;
+    font-size: 1.7rem;
+}
+.about-section-text span{
+    display: block;
+    color: #8b0505;
+}
+.about_para{
+    text-align: justify;
+}
+
+
+
+

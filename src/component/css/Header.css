@@ -1,0 +1,30 @@
+.header-btn{
+    display: flex;
+}
+
+.login-btn,.signup-btn{
+    background-color: #6d28d9;
+    /* padding: 8px; */
+    border-radius: 9px;
+    color: white;
+    /* padding-left: 2px; */
+    text-decoration: none;
+    /* padding: .5rem 1rem; */
+    display: flex;
+    padding: 0.4rem 0.5rem;
+    margin: 0 0.2rem;
+}
+.login-btn:hover,.signup-btn:hover{
+   background-color: transparent;
+   border: #6d28d9;
+   color: black;
+}
+
+@media (max-width: 991.98px) { 
+    .login-btn,.signup-btn{
+       
+        display: flex;
+    }
+
+
+ }

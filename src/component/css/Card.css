@@ -1,0 +1,28 @@
+
+/* -------courses-section------------- */
+.beginer{
+    text-decoration: none;
+    color: white;
+    background-color: #6d28d9;
+    padding: .2rem 0.4rem;
+   
+}
+.beginer:hover{
+    color: #6d28d9;
+    background: none;
+}
+.heart-icon{
+    color: red;
+  
+}
+.star{
+    color: red;
+}
+
+.card-title:hover{
+    color: #7528d9c2;
+}
+.card:hover{
+    cursor: pointer;
+    
+}
